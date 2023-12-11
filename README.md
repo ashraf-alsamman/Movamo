@@ -5,9 +5,13 @@
 ![Screenshot](./screenshots/1.jpg 'Screenshot')
 
 
-## Android QR :
+ 
 
-![Screenshot](./screenshots/android.png 'android ')
+
+## demo QR :
+
+![Demo android](./screenshots/android.gif 'android ')
+![Demo ios](./screenshots/ios.gif 'ios ')
 
 Or, open this link on your Android device:
 - **[exp://u.expo.dev/update/e3b6b330-358d-4925-9937-0f748c9dc8e7](exp://u.expo.dev/update/e3b6b330-358d-4925-9937-0f748c9dc8e7)**
