@@ -14,7 +14,7 @@
 ![Demo ios](./screenshots/ios.gif 'ios')
 
 
-## IOS QR :
+## Android QR :
 ![Screenshot](./screenshots/android.png 'android ')
 Or, open this link on your Android device:
 - **[exp://u.expo.dev/update/e3b6b330-358d-4925-9937-0f748c9dc8e7](exp://u.expo.dev/update/e3b6b330-358d-4925-9937-0f748c9dc8e7)**
@@ -23,8 +23,8 @@ Or, open this link on your Android device:
 ## IOS QR :
 ![Screenshot](./screenshots/ios.png 'ios ')
 
-Or, open this link on your Android device:
-- **[exp://u.expo.dev/update/e3b6b330-358d-4925-9937-0f748c9dc8e7](exp://u.expo.dev/update/e3b6b330-358d-4925-9937-0f748c9dc8e7)**
+Or, open this link on your IOS device:
+- **[exp://u.expo.dev/update/74c79829-43b4-47f2-8c50-71e90909d8d5](exp://u.expo.dev/update/74c79829-43b4-47f2-8c50-71e90909d8d5)**
 
 
 ### Technologies used
