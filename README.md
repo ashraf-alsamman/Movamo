@@ -3,12 +3,10 @@
 ## Screenshot:
 
 ![Screenshot](./screenshots/1.jpg 'Screenshot')
-
-
  
 
+## Demo:
 
-## Demo QR :
 
 ![Demo android](./screenshots/android.gif 'android')
 ![Demo ios](./screenshots/ios.gif 'ios')
